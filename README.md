@@ -8,7 +8,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Keekzz13
-*I aint turning imagination into reality 🥀✌️*
+I make scripts, thats all
 
 <img src="https://komarev.com/ghpvc/?username=Keekzz13&style=flat-square&color=blue" alt="Profile Views" />  
 <img src="https://img.shields.io/github/followers/Keekzz13?style=social" alt="Followers" />
@@ -51,6 +51,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="https://www.markdownguide.org"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
+  <a href="https://www.lua.org"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"></a>
 </div>
 
 **JS Framework / Library:**  
@@ -111,5 +112,3 @@
   width="100%"
  />
 </div>
-
-###
