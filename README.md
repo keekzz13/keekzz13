@@ -11,7 +11,6 @@
 I make scripts, thats all 
 
 <img src="https://komarev.com/ghpvc/?username=Keekzz13&style=flat-square&color=blue" alt="Profile Views" />  
-<img src="https://img.shields.io/github/followers/Keekzz13?style=social" alt="Followers" />
 
 ---
 ## 📊 Stats
