@@ -12,6 +12,15 @@ Acc got termed so am using alt
 <img src="https://komarev.com/ghpvc/?username=Keekzz13&style=flat-square&color=blue" alt="Profile Views" />  
 
 ---
+
+## 🔗 Connect 
+<div style="display:flex; justify-content:center; align-items:center; gap:10px; flex-wrap:wrap;">
+  <a href="https://discord.com/invite/zYfhKn5wbm">
+    <img src="https://img.shields.io/badge/Discord-aurox.x-5865F2?style=for-the-badge&logo=discord" alt="Discord Server" />
+  </a>
+</div>
+
+
 ## 📊 Stats
 <div style="display:flex; justify-content:center; align-items:center; gap:10px; flex-wrap:wrap;">
   <a href="https://github.com/Keekzz13">
